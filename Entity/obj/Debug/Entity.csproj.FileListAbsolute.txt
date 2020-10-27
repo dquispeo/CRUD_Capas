@@ -1,0 +1,6 @@
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Entity\bin\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Entity\bin\Debug\Entity.pdb
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Entity\obj\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Entity\obj\Debug\Entity.pdb

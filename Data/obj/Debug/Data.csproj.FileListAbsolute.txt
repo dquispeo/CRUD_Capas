@@ -1,0 +1,9 @@
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\bin\Debug\Data.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\bin\Debug\Data.pdb
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\bin\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\bin\Debug\Entity.pdb
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\obj\Debug\Data.csproj.CopyComplete
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\obj\Debug\Data.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Data\obj\Debug\Data.pdb

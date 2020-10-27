@@ -1,0 +1,11 @@
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\bin\Debug\Business.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\bin\Debug\Business.pdb
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\bin\Debug\Data.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\bin\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\bin\Debug\Data.pdb
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\bin\Debug\Entity.pdb
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\obj\Debug\Business.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\obj\Debug\Business.csproj.CopyComplete
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\obj\Debug\Business.dll
+E:\ProjectVisualStudio\6-ciclo\CRUDSemana06\Business\obj\Debug\Business.pdb

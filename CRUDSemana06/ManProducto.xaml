@@ -1,0 +1,74 @@
+﻿<Window x:Class="CRUDSemana06.ManProducto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRUDSemana06"
+        mc:Ignorable="d"
+        Title="ManProducto" Height="550" Width="500">
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <StackPanel>
+                <Label Content="MANTENIMIENTO DE PRODUCTOS" />
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="ID" Width="200"/>
+                    <Label Content="ID" x:Name="lblID" Width="150"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="NOMBRE" Width="200"/>
+                    <TextBox x:Name="txtNombre" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="ID PROVEEDOR" Width="200"/>
+                    <TextBox x:Name="txtIdProveedor" Typography.NumeralStyle="Normal" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="ID CATEGORIA" Width="200"/>
+                    <TextBox x:Name="txtIdCategoria" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="CANTIDAD POR UNIDAD" Width="200"/>
+                    <TextBox x:Name="txtCantidadProUnidad" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="PRECIO UNIDAD" Width="200"/>
+                    <TextBox x:Name="txtPrecioUnidad" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="UNIDADES EXISTENTES" Width="200"/>
+                    <TextBox x:Name="txtUnidadesExistentes" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="UNIDADES PEDIDAS" Width="200"/>
+                    <TextBox x:Name="txtUnidadesPedidas" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="NIVEL NUEVO PEDIDO" Width="200"/>
+                    <TextBox x:Name="txtNivelNuevoPedido" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="SUSPENDIDO" Width="200"/>
+                    <CheckBox x:Name="txtSuspendido" Width="200"></CheckBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="CATEGORIA PRODUCTO" Width="200"/>
+                    <TextBox x:Name="txtCategoriaProducto" Text="Categoria D" Width="200"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btnGrabar" Click="BtnGrabar_Click" >Grabar</Button>
+                    <Button x:Name="btnEliminar" Click="BtnEliminar_Click" >Eliminar</Button>
+                    <Button x:Name="btnCerrar" Click="BtnCerrar_Click"  >Cerrar</Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
